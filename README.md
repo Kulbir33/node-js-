@@ -1,0 +1,1 @@
+Firstly through cd command enters the file api and run command npm start that will run the backend server mongodb after that through cd command enter in client file through another terminal and run command npm start that will run the front end part .
